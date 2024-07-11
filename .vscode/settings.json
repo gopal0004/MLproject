@@ -1,5 +1,11 @@
 {
     "cSpell.words": [
-        "mlproject"
+        "catboost",
+        "dtypes",
+        "mlproject",
+        "regplot",
+        "xgboost",
+        "xlabel",
+        "ylabel"
     ]
 }
