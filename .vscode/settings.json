@@ -3,6 +3,7 @@
         "catboost",
         "dtypes",
         "mlproject",
+        "quantile",
         "regplot",
         "xgboost",
         "xlabel",
