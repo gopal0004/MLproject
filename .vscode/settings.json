@@ -1,8 +1,10 @@
 {
     "cSpell.words": [
         "catboost",
+        "datapoint",
         "dtypes",
         "mlproject",
+        "predictdata",
         "quantile",
         "regplot",
         "xgboost",
